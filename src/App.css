@@ -45,11 +45,11 @@ body{
               0 0 30px #ff00ff;
   }
   .XOstyle{
-    color: rgb(112, 112, 248);
+    color: rgb(255, 255, 255);
     font-size: 40px;
-    text-shadow: 0 0 5px rgb(140, 140, 235), /* Adjust color and blur radius */
-    0 0 10px rgb(140, 140, 235),
-    0 0 20px rgb(140, 140, 235);
+    text-shadow: 0 0 5px rgb(255, 255, 255), /* Adjust color and blur radius */
+    0 0 10px rgb(255, 255, 255),
+    0 0 20px rgb(255, 255, 255);
     /* font-weight: bold; */
   }
 
