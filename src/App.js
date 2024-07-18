@@ -124,8 +124,8 @@ export default function App() {
         <div className="popup-container">
           <img src={trumpet} alt="icon"></img>
           <h2>Congratulations!</h2>
-          {winner === "X" && <p>Player 1 has win</p>}
-          {winner === "O" && <p>Player 2 has win</p>}
+          {winner === "X" && <p>Player 1 has won</p>}
+          {winner === "O" && <p>Player 2 has won</p>}
           <button id="newGame" onClick={resetGame}>
             New Game
           </button>
